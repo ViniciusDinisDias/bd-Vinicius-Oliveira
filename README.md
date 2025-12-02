@@ -178,8 +178,7 @@ Basta ajustar as configurações em application.properties ou application.yml.
 
 ## 💡 Autor
 
-👤 *SEU NOME*  
-📧 [github.com/SEUNOME](https://github.com/SEUNOME)  
+👤 Vinícius Oliveira    
 💻 Projeto acadêmico desenvolvido para fins educacionais.
 
 ---
@@ -189,12 +188,3 @@ Basta ajustar as configurações em application.properties ou application.yml.
 Este projeto é de uso *educacional e livre*.  
 Sinta-se à vontade para estudar, modificar e melhorar. ✨
 
----
-
-### 📸 Preview (opcional)
-
-#### 🔐 Tela de Login
-<img width="1916" height="898" alt="preview" src="https://github.com/user-attachments/assets/8354d81c-0235-411e-9e93-91f10a50af2d" />
-
-#### 🏥 Tela Inicial
-<img width="1914" height="903" alt="preview2" src="https://github.com/user-attachments/assets/acbe05ab-6e1a-42eb-bb00-2583c1d8a087" />
